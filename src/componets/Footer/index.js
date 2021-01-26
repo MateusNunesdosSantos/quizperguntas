@@ -8,7 +8,7 @@ const FooterWrapper = styled.footer`
   align-items: center;
   border-radius: 4px;
   img {
-    width: 58px;
+    width: 78px;
     margin-right: 23px;
   }
   a {
@@ -31,7 +31,7 @@ export default function Footer(props) {
     <FooterWrapper {...props}>
       <a href="https://www.alura.com.br/">
         <img
-          src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/800px-MarvelLogo.svg.png"
           alt="Logo Alura"
         />
       </a>
